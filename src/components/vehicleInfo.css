@@ -1,0 +1,17 @@
+
+
+.form-controler{
+    margin-bottom: 13px; 
+    position: relative;   
+}
+
+.form-controler label{
+    display: inline-block;  
+    text-align: start; 
+}
+
+.form-controler input{
+    display: block;
+    width: 300pt; 
+    height: 20pt;
+}

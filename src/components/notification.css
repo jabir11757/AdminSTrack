@@ -1,0 +1,21 @@
+.notification-controle{
+    margin-bottom: 10px; 
+    position: relative;   
+}
+
+.notification-controle label{
+    display: inline-block;  
+    text-align: start; 
+}
+
+.notification-controle input{
+    display: block;
+    width: 320pt; 
+    height: 20pt;
+}
+.notification-controle2 input{
+    display: block;
+    width: 320pt; 
+    height: 100pt;
+    margin-left: 22pt;
+}

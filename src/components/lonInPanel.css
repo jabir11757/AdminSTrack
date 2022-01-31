@@ -1,0 +1,16 @@
+.controle{
+    margin-bottom: 10px; 
+    position: relative;   
+}
+
+.controle label{
+    display: inline-block;  
+    text-align: start;
+}
+
+.controle input{
+    display: block;
+    width: 300pt; 
+    height: 20pt;
+    
+}
